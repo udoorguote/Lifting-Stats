@@ -1,0 +1,121 @@
+Person ,Exercise,Session,Set,Repetition ,Power
+Alex,BB,1,1,1,311
+Alex,BB,1,1,2,279
+Alex,BB,1,1,3,267
+Alex,BB,1,1,4,253
+Alex,BB,1,1,5,224
+Alex,BB,1,2,1,280
+Alex,BB,1,2,2,301
+Alex,BB,1,2,3,270
+Alex,BB,1,2,4,267
+Alex,BB,1,2,5,184
+Alex,BB,1,3,1,283
+Alex,BB,1,3,2,277
+Alex,BB,1,3,3,244
+Alex,BB,1,3,4,266
+Alex,BB,1,3,5,240
+Khai ,BB,1,1,1,278
+Khai ,BB,1,1,2,273
+Khai ,BB,1,1,3,285
+Khai ,BB,1,1,4,255
+Khai ,BB,1,1,5,159
+Khai ,BB,1,2,1,257
+Khai ,BB,1,2,2,265
+Khai ,BB,1,2,3,255
+Khai ,BB,1,2,4,237
+Khai ,BB,1,2,5,217
+Khai ,BB,1,3,1,249
+Khai ,BB,1,3,2,261
+Khai ,BB,1,3,3,267
+Khai ,BB,1,3,4,253
+Khai ,BB,1,3,5,233
+Alex,BB,2,1,1,330
+Alex,BB,2,1,2,283
+Alex,BB,2,1,3,290
+Alex,BB,2,1,4,304
+Alex,BB,2,1,5,246
+Alex,BB,2,2,1,370
+Alex,BB,2,2,2,366
+Alex,BB,2,2,3,365
+Alex,BB,2,2,4,301
+Alex,BB,2,2,5,302
+Alex,BB,2,3,1,292
+Alex,BB,2,3,2,301
+Alex,BB,2,3,3,342
+Alex,BB,2,3,4,339
+Alex,BB,2,3,5,299
+Khai ,BB,2,1,1,393
+Khai ,BB,2,1,2,363
+Khai ,BB,2,1,3,400
+Khai ,BB,2,1,4,372
+Khai ,BB,2,1,5,356
+Khai ,BB,2,2,1,375
+Khai ,BB,2,2,2,380
+Khai ,BB,2,2,3,405
+Khai ,BB,2,2,4,417
+Khai ,BB,2,2,5,315
+Khai ,BB,2,3,1,385
+Khai ,BB,2,3,2,378
+Khai ,BB,2,3,3,391
+Khai ,BB,2,3,4,375
+Khai ,BB,2,3,5,343
+Alex,DB,1,1,1,111
+Alex,DB,1,1,2,101
+Alex,DB,1,1,3,90
+Alex,DB,1,1,4,85
+Alex,DB,1,1,5,86
+Alex,DB,1,2,1,128
+Alex,DB,1,2,2,114
+Alex,DB,1,2,3,101
+Alex,DB,1,2,4,102
+Alex,DB,1,2,5,71
+Alex,DB,1,3,1,109
+Alex,DB,1,3,2,101
+Alex,DB,1,3,3,114
+Alex,DB,1,3,4,91
+Alex,DB,1,3,5,82
+Khai ,DB,1,1,1,152
+Khai ,DB,1,1,2,164
+Khai ,DB,1,1,3,167
+Khai ,DB,1,1,4,155
+Khai ,DB,1,1,5,127
+Khai ,DB,1,2,1,166
+Khai ,DB,1,2,2,164
+Khai ,DB,1,2,3,165
+Khai ,DB,1,2,4,156
+Khai ,DB,1,2,5,133
+Khai ,DB,1,3,1,155
+Khai ,DB,1,3,2,142
+Khai ,DB,1,3,3,152
+Khai ,DB,1,3,4,134
+Khai ,DB,1,3,5,136
+Alex,DB,2,1,1,159
+Alex,DB,2,1,2,149
+Alex,DB,2,1,3,145
+Alex,DB,2,1,4,132
+Alex,DB,2,1,5,110
+Alex,DB,2,2,1,139
+Alex,DB,2,2,2,147
+Alex,DB,2,2,3,149
+Alex,DB,2,2,4,138
+Alex,DB,2,2,5,136
+Alex,DB,2,3,1,145
+Alex,DB,2,3,2,136
+Alex,DB,2,3,3,132
+Alex,DB,2,3,4,126
+Alex,DB,2,3,5,129
+Khai ,DB,2,1,1,171
+Khai ,DB,2,1,2,190
+Khai ,DB,2,1,3,168
+Khai ,DB,2,1,4,176
+Khai ,DB,2,1,5,171
+Khai ,DB,2,2,1,145
+Khai ,DB,2,2,2,172
+Khai ,DB,2,2,3,148
+Khai ,DB,2,2,4,139
+Khai ,DB,2,2,5,112
+Khai ,DB,2,3,1,152
+Khai ,DB,2,3,2,145
+Khai ,DB,2,3,3,139
+Khai ,DB,2,3,4,142
+Khai ,DB,2,3,5,145
